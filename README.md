@@ -1,10 +1,9 @@
-SREEHARSH E K
-#VIMALJYOTHIENGINEERINGCOLLEGE
-#VJEC
-#vjec
-#leetcode
-#vimaljoythiengineeringcollege
-#tech
-#cprogramming
-#programmer
-#leetcodesolutions
+#SREEHARSHEK
+#VIMALJYOTHIENGINEERINGCOLLEGE,
+#vjec,
+#leetcode,
+#vimaljoythiengineeringcollege,
+#tech,
+#cprogramming,
+#programmer,
+#leetcodesolutions,
